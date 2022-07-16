@@ -4,3 +4,5 @@ Hey there 👋
 - 📫 I graduated in 2012 from Vemana Institute of Technology, Bangalore (B.E, Electronics & Telecommunications)
 - ✨ I’m currently learning TypeScript & Azure
 - 💞️ I’m looking to collaborate on WCS & PLC related projects with C# & .NET
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
